@@ -8050,10 +8050,18 @@ a.text-dark:hover {
     margin-top: 23px;
 
 }
-
-#df{
+#experience{
     background-color: #040505;
 }
+
+#skill{
+    background-color: #040505;
+}
+
+#reference{
+    background-color: #040505;
+}
+
 
 #titulo{
     color: white;
